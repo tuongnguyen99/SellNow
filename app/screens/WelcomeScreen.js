@@ -39,6 +39,7 @@ const styles = StyleSheet.create({
   },
   slogan: {
     color: colors.white,
+    fontWeight: "bold",
     fontSize: 20,
     marginTop: 6,
   },
